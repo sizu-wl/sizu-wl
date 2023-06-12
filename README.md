@@ -15,7 +15,7 @@
 - 🔭 I'm currently learning **Web3, GameDev**
 - 🌱 I regularly write articles on [Medium](medium-link)
 - 👯 Know about my experiences [CV](cv-link)
-- 🤔 Reach me by [LinkedIn](linkedin-link), Lemaill(mailto:email-address)
+- 🤔 Reach me by [LinkedIn](linkedin-link), [email](adikivanov097@gmail.com)
 - 💬 I speak English,Russian
 
 
@@ -34,4 +34,3 @@ width="40" height="40"/>&nbsp;
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZIxsus&theme=github_dark)
--->

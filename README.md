@@ -33,7 +33,6 @@ width="40" height="40"/>&nbsp;
 width="40" height="40"/>&nbsp;
 
 ### Discord server 
-https://discord.com/api/guilds/1088856562774323341/widget.json
 
 ### Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZIxsus&theme=github_dark)

@@ -33,7 +33,7 @@ width="40" height="40"/>&nbsp;
 width="40" height="40"/>&nbsp;
 
 ### Discord server 
-<iframe src="https://discord.com/widget?id=1088856562774323341&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/api/guilds/1088856562774323341/widget.json
 
 ### Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZIxsus&theme=github_dark)
